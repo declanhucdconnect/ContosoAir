@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://declanh.visualstudio.com/GitHub%20Integration%20lab%209/_apis/build/status/declanhucdconnect.ContosoAir?branchName=master)](https://declanh.visualstudio.com/GitHub%20Integration%20lab%209/_build/latest?definitionId=20&branchName=master)
 
 # Microsoft.Github CI Demo
 
