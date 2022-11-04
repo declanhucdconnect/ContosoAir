@@ -28,8 +28,8 @@ steps:
 - task: AzureResourceManagerTemplateDeployment@3
   inputs:
     deploymentScope: 'Resource Group'
-    azureResourceManagerConnection: 'AzureConnectionLab9'
-    subscriptionId: 'bcc29f47-1b75-4b7b-af5a-6eec24c56e07'
+    ConnectedServiceName: 'AzureConnectionLab9'
+    subscriptionName: 'bcc29f47-1b75-4b7b-af5a-6eec24c56e07'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'cloud-shell-storage-northeurope'
     location: 'North Europe'
